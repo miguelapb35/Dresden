@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Dresden/static/css/main.db03f86e.chunk.css",
+    "main.js": "/Dresden/static/js/main.b241f82f.chunk.js",
+    "main.js.map": "/Dresden/static/js/main.b241f82f.chunk.js.map",
+    "runtime-main.js": "/Dresden/static/js/runtime-main.803dc73b.js",
+    "runtime-main.js.map": "/Dresden/static/js/runtime-main.803dc73b.js.map",
+    "static/js/2.4fb1a98f.chunk.js": "/Dresden/static/js/2.4fb1a98f.chunk.js",
+    "static/js/2.4fb1a98f.chunk.js.map": "/Dresden/static/js/2.4fb1a98f.chunk.js.map",
+    "index.html": "/Dresden/index.html",
+    "precache-manifest.9815c717b3f9384a608f831628d4929b.js": "/Dresden/precache-manifest.9815c717b3f9384a608f831628d4929b.js",
+    "service-worker.js": "/Dresden/service-worker.js",
+    "static/css/main.db03f86e.chunk.css.map": "/Dresden/static/css/main.db03f86e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803dc73b.js",
+    "static/js/2.4fb1a98f.chunk.js",
+    "static/css/main.db03f86e.chunk.css",
+    "static/js/main.b241f82f.chunk.js"
+  ]
+}
